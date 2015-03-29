@@ -40,7 +40,7 @@ import com.netease.qa.emmagee.utils.Settings;
 
 /**
  * Mail Setting Page of Emmagee
- * 
+ * SByby is a dashabi
  * @author andrewleo
  */
 public class MailSettingsActivity extends Activity {
